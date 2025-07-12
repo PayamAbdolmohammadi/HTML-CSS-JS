@@ -50,12 +50,15 @@ HTML-CSS-JS/
 
 
 ▶️ Nutzung / Ausführen
+
 Repository klonen oder herunterladen: git clone https://github.com/PayamAbdolmohammadi/HTML-CSS-JS.git cd HTML-CSS-JS
 
 Öffne die Datei index.html direkt im Browser.
+
 Du kannst die App auch lokal auf einem Live-Server starten (z. B. mit VS Code Erweiterung „Live Server“).
 
 Oder öffne die Online-Version:
+
 👉https://payamabdolmohammadi.github.io/HTML-CSS-JS/
 
 🧪 Projektbeschreibung
