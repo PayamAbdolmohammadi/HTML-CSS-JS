@@ -25,6 +25,8 @@ Ziel ist es, zentrale Themen wie Webdesign, Layout-Strukturen, Animationen, Navi
 - JavaScript (Vanilla) – Interaktive Elemente und Logik  
 - Icons & Fonts – z. B. Font Awesome oder Google Fonts  
 - Kein Backend: Reines Frontend-Projekt
+  
+---
 ## 📂 Projektstruktur
 HTML-CSS-JS/
 
@@ -48,7 +50,7 @@ HTML-CSS-JS/
 
 
 
-
+---
 ▶️ Nutzung / Ausführen
 
 Repository klonen oder herunterladen: git clone https://github.com/PayamAbdolmohammadi/HTML-CSS-JS.git cd HTML-CSS-JS
@@ -61,6 +63,8 @@ Oder öffne die Online-Version:
 
 👉https://payamabdolmohammadi.github.io/HTML-CSS-JS/
 
+
+---
 🧪 Projektbeschreibung
 
  • Die Seite zeigt verschiedene Abschnitte wie Navigation, Features, Produkte, Kontakt usw.
@@ -73,6 +77,7 @@ Oder öffne die Online-Version:
  
  • Das Kontaktformular enthält Felder für Name, E-Mail und Nachricht, allerdings ohne Funktionalität zur Datenverarbeitung (kein Backend vorhanden).
 
+---
 👤 Entwickler
 
 Payam Abdolmohammadi
@@ -81,6 +86,7 @@ Payam Abdolmohammadi
 
 📧 payamabdolmohammadii@gmail.com
 
+---
 🪪 Lizenz
 
 Dieses Projekt ist unter der MIT-Lizenz veröffentlicht.
