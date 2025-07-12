@@ -62,11 +62,17 @@ Oder öffne die Online-Version:
 👉https://payamabdolmohammadi.github.io/HTML-CSS-JS/
 
 🧪 Projektbeschreibung
+
  • Die Seite zeigt verschiedene Abschnitte wie Navigation, Features, Produkte, Kontakt usw.
+
  • Die Navigationsleiste ist responsive und per Klick ein-/ausklappbar.
+ 
  • Bei kleineren Geräten (Mobil) wechselt das Layout in eine Spalte.
+ 
  • Bei Tablets: zweispaltig, auf dem Desktop: mehrspaltig.
+ 
  • Das Kontaktformular enthält Felder für Name, E-Mail und Nachricht, allerdings ohne Funktionalität zur Datenverarbeitung (kein Backend vorhanden).
+
 👤 Entwickler
 Payam Abdolmohammadi
 📍 Stuttgart, Deutschland
