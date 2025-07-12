@@ -27,10 +27,15 @@ Ziel ist es, zentrale Themen wie Webdesign, Layout-Strukturen, Animationen, Navi
 - Kein Backend: Reines Frontend-Projekt
 ## 📂 Projektstruktur
 HTML-CSS-JS/
+
 ├── css/
+
 ├── fonts/
+
 ├── images/
+
 ├── index.html
+
 ├── about.html
 ├── contact-us.html
 ├── products.html
