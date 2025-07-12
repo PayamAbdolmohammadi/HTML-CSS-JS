@@ -74,12 +74,17 @@ Oder öffne die Online-Version:
  • Das Kontaktformular enthält Felder für Name, E-Mail und Nachricht, allerdings ohne Funktionalität zur Datenverarbeitung (kein Backend vorhanden).
 
 👤 Entwickler
+
 Payam Abdolmohammadi
+
 📍 Stuttgart, Deutschland
+
 📧 payamabdolmohammadii@gmail.com
 
 🪪 Lizenz
+
 Dieses Projekt ist unter der MIT-Lizenz veröffentlicht.
+
 Die Nutzung, Änderung und Weitergabe ist erlaubt.
 
 
